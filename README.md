@@ -15,4 +15,10 @@
    - ประเด็นหัวข้อ : Chiplet Heterogeneous Integration Technology
    - ผู้เขียน : Tao Li, Jie Hou, Jinli Yan, Rulin Liu, Hui Yang และ Zhigang Sun
    - ปีที่พิมพ์ : 2020
-   - วารสาร : Electronics 
+   - วารสาร : Electronic
+3. [A History and Survey of Network Firewalls](documen3.pdf)
+   - ประเด็นหัวข้อ : Network Firewalls
+   - ผู้เขียน : Kenneth Ingham และ Stephanie Forrest
+   - ปีที่พิมพ์ : 2002
+   - วารสาร : ACM Journal Name
+   
