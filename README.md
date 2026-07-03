@@ -21,4 +21,8 @@
    - ผู้เขียน : Kenneth Ingham และ Stephanie Forrest
    - ปีที่พิมพ์ : 2002
    - วารสาร : ACM Journal Name
-   
+4. [A State of Art Survey for Big Data Processing and NoSQL Database Architecture](document4.pdf)
+   - ประเด็นหัวข้อ : Big Data Processing and NoSQL Database Architecture  
+   - ผู้เขียน : Aqib Ali, Samreen Naeem, Sania Anam และ Muhammad Munawar Ahmed
+   - ปีที่พิมพ์ : 2023
+   - วารสาร : International Journal of Computing and Digital Systems
